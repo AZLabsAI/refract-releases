@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.4.1",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.4.1/Refract-Setup-1.4.1-win-x64.exe",
-    "sha256": "cff8abe819c945d9b122867209424399ddb61e6b8b1d12d34081b089af8b70da",
-    "notes": "Drag the lower-right corner of the button to resize it."
+    "version": "1.4.2",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.4.2/Refract-Setup-1.4.2-win-x64.exe",
+    "sha256": "eabdbf5946d357910f4dd25008a121091c0ab03c1a76a4d6a4f3785bca1965db",
+    "notes": "Follows the focused text box before Send appears, then sits beside Send and adapts to the available space. The grayscale prism glows while rewriting; feedback stays clear of Send."
   },
   "mac": {
     "version": "1.4.2",
