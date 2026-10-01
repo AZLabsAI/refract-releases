@@ -4,5 +4,11 @@
     "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.4.0/Refract-Setup-1.4.0-win-x64.exe",
     "sha256": "4c15fc797a78d73cc94b4be44e78614836b4216242fd2297f420e4d790303874",
     "notes": "Windows button now repairs itself if Windows hides or buries it, and Refract can update itself from Settings \u2192 About."
+  },
+  "mac": {
+    "version": "1.4.0",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.4.0/Refract-1.4.0-mac.zip",
+    "sha256": "c05eecea6398fa62dd8597aab49b59207845cc43d9934fee013c6dfaa2998f09",
+    "notes": "Refract can now update itself from Settings \u2192 General \u2192 Updates."
   }
 }
