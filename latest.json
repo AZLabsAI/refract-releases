@@ -6,9 +6,9 @@
     "notes": "Drag the lower-right corner of the button to resize it."
   },
   "mac": {
-    "version": "1.4.1",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.4.1/Refract-1.4.1-mac.zip",
-    "sha256": "4d19ca65f80fba71fd82835eda5a1f9345344a17d59f1d705f3d1f375699039c",
-    "notes": "Drag the lower-right corner of the button to resize it."
+    "version": "1.4.2",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.4.2/Refract-1.4.2-mac.zip",
+    "sha256": "3f4f5981cfd96e5e21605cd66c2c8934827d8865f3c008e6534e37edcac4af54",
+    "notes": "Follows the focused text box before Send appears, then sits beside Send and adapts to the available space. The grayscale prism glows while rewriting; feedback stays clear of Send."
   }
 }
