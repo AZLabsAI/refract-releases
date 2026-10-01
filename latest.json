@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.4.0",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.4.0/Refract-Setup-1.4.0-win-x64.exe",
-    "sha256": "4c15fc797a78d73cc94b4be44e78614836b4216242fd2297f420e4d790303874",
-    "notes": "Windows button now repairs itself if Windows hides or buries it, and Refract can update itself from Settings \u2192 About."
+    "version": "1.4.1",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.4.1/Refract-Setup-1.4.1-win-x64.exe",
+    "sha256": "cff8abe819c945d9b122867209424399ddb61e6b8b1d12d34081b089af8b70da",
+    "notes": "Drag the lower-right corner of the button to resize it."
   },
   "mac": {
     "version": "1.4.0",
