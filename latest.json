@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.4.2",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.4.2/Refract-Setup-1.4.2-win-x64.exe",
-    "sha256": "eabdbf5946d357910f4dd25008a121091c0ab03c1a76a4d6a4f3785bca1965db",
-    "notes": "Follows the focused text box before Send appears, then sits beside Send and adapts to the available space. The grayscale prism glows while rewriting; feedback stays clear of Send."
+    "version": "1.4.3",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.4.3/Refract-Setup-1.4.3-win-x64.exe",
+    "sha256": "e789623015cdb2aab9832c045e47fe0fe4842ba9fc6fc32d42fdb53b29d19f31",
+    "notes": "Windows build 6 brings the refined prism tile and keeps it parked until text is selected. Settings > About shows the build number. This release fixes executable version metadata so Windows can verify and install auto-updates."
   },
   "mac": {
     "version": "1.4.2",
