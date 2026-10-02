@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.4.3",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.4.3/Refract-Setup-1.4.3-win-x64.exe",
-    "sha256": "e789623015cdb2aab9832c045e47fe0fe4842ba9fc6fc32d42fdb53b29d19f31",
-    "notes": "Windows build 6 brings the refined prism tile and keeps it parked until text is selected. Settings > About shows the build number. This release fixes executable version metadata so Windows can verify and install auto-updates."
+    "version": "1.4.4",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.4.4/Refract-Setup-1.4.4-win-x64.exe",
+    "sha256": "37b22bd61dea36862f84e171e19046a1f54119cb6fd41f68eec555d75933b38c",
+    "notes": "Windows 1.4.4 build 7 adds the continuous spectrum activity ring, clearer success and warning indicators, a transparent prism icon, redesigned settings and provider logos. OpenAI Codex is first for new setups; existing saved provider choices and credentials are preserved."
   },
   "mac": {
     "version": "1.4.2",
