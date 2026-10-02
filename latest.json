@@ -6,9 +6,9 @@
     "notes": "Windows 1.4.4 build 7 adds the continuous spectrum activity ring, clearer success and warning indicators, a transparent prism icon, redesigned settings and provider logos. OpenAI Codex is first for new setups; existing saved provider choices and credentials are preserved."
   },
   "mac": {
-    "version": "1.4.2",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.4.2/Refract-1.4.2-mac.zip",
-    "sha256": "3f4f5981cfd96e5e21605cd66c2c8934827d8865f3c008e6534e37edcac4af54",
-    "notes": "Follows the focused text box before Send appears, then sits beside Send and adapts to the available space. The grayscale prism glows while rewriting; feedback stays clear of Send."
+    "version": "1.4.4",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.4.4/Refract-1.4.4-mac.zip",
+    "sha256": "391ad75fccdb763230c9d503fa9752fb4267cc12e02426d378ee254ef87cd0db",
+    "notes": "Mac 1.4.4 build 7 adds clearer success and warning indicators, redesigned settings with provider logos, and the transparent menu-bar prism. OpenAI Codex is first for new setups; existing saved provider choices and credentials are preserved."
   }
 }
