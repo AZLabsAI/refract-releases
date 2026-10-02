@@ -42,7 +42,7 @@ The Store version is updated by the Store, so it can trail the direct download b
 
 ## Use it
 
-Highlight some text (or click into the box), then click the floating glass button, tap **Ctrl + Shift**, or press **Ctrl + Alt + R** (Windows) or its Mac equivalent. Right-click the button for other presets. Drag its lower-right corner to resize it. **Ctrl + Alt + Z** undoes a rewrite on Windows.
+Highlight some text (or click into the box), then click the floating glass button, tap **Ctrl + Shift**, or press **Ctrl + Alt + R** (Windows) or **Control + Option + R** (Mac). Right-click the button for other presets, and drag its lower-right corner to resize it. **Ctrl + Alt + Z** (Windows) or **Control + Option + Z** (Mac) undoes a rewrite.
 
 You bring the AI: a provider key, a ChatGPT plan sign-in, or a local model through Ollama or LM Studio.
 
