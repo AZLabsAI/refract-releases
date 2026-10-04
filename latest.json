@@ -10,5 +10,11 @@
     "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.4.4/Refract-1.4.4-mac.zip",
     "sha256": "391ad75fccdb763230c9d503fa9752fb4267cc12e02426d378ee254ef87cd0db",
     "notes": "Mac 1.4.4 build 7 adds clearer success and warning indicators, redesigned settings with provider logos, and the transparent menu-bar prism. OpenAI Codex is first for new setups; existing saved provider choices and credentials are preserved."
+  },
+  "linux": {
+    "version": "1.5.1",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.5.1/refract-1.5.1-linux.tar.gz",
+    "sha256": "53f498c442d6adbf0cd60d22b3385b86580eec930c2010a48b15375db0dfb1d7",
+    "notes": "Refract 1.5.1 adds optional Jev hints in Review using your own TypeSafe API key. Jev checks for changes in meaning, tone mismatch and added commitments after a rewrite appears. Copy and paste stay available while it checks. Enable Jev in Settings \u2192 General; it starts off. Usage is charged to your TypeSafe account. Hints are experimental and may be wrong.\n\nNew installations start with ChatGPT account sign-in. The model picker uses the full list returned for your signed-in account, including models omitted from recommendations. Available models and usage limits depend on your account. Existing provider choices are preserved.\n\nThis release also includes the updated prism button, editable Review alternatives and configurable visible context capture. Keys stay in the OS credential store. Jev receives only the original, rewrite and editing instructions; detected sensitive text is skipped.\n\nMac and Windows desktop apps discover this release through their existing GitHub update checks. Linux now has update checks and an Update and restart action for the default per-user installation. Older Linux versions need one manual installation to gain the updater. Microsoft Store updates are separate.\n"
   }
 }
