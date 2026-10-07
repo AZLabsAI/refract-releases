@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.5.3",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.3/Refract-Setup-1.5.3-win-x64.exe",
-    "sha256": "dd2d7b2c5903a4a3ad18caf366c252b6105b62a4a9a247f29382d817c2aeec5d",
-    "notes": "Fixes the Settings window not showing after choosing Settings from the right-click or tray menu on Windows. The window now opens in front and stays there."
+    "version": "1.5.4",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.4/Refract-Setup-1.5.4-win-x64.exe",
+    "sha256": "e161a13dc2be5be1034951beef7b03dcde5d808c6b9e76f3216b3997e707be2c",
+    "notes": "The orb and the light ring now look and move on Windows the way they do on the Mac. The orb drifts and breathes at the same pace with the same colours, the glow behind the pyramid matches, and the ring around the rim is a smooth comet that turns once every 1.5 seconds at your screen's refresh rate instead of stepping. If Windows animation effects are turned off (Settings, Accessibility, Visual effects), the orb and ring stay still, and Diagnostics now shows that setting."
   },
   "mac": {
     "version": "1.5.2",
