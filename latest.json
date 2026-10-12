@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.5.5",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.5/Refract-Setup-1.5.5-win-x64.exe",
-    "sha256": "0e536bded70abf682f4ce9cf74e3cfbb05eeb99c6533f8b59388ccb8d53e780e",
-    "notes": "Refract 1.5.5 for Windows makes Settings open every time and turns Refract Free on from the first launch.\n\nSettings: clicking Settings now always shows the window. Refract puts it above your other windows even when Windows refuses to give it the keyboard (the taskbar button flashes), opens it after a menu has finished closing so the menu can no longer pull focus away, and checks a moment later that you can see it. If one Settings page cannot load, that page says what went wrong and the rest still works; if Settings cannot open at all you get a message with the log folder instead of nothing. Starting Refract a second time (the exe or its Start menu shortcut) now opens Settings in the copy that is already running.\n\nRefract Free: a new install starts with Refract Free as the default for every style, so you can highlight text and rewrite straight away with no sign-in or key. It sits at the top of Models & providers with a Use Refract Free for all styles button. An older install that never finished setup moves to it once; a setup you finished keeps what you chose. Free use has shared limits and sends your text through Refract's gateway to OpenRouter. Sign in with ChatGPT or add your own key for more models, then choose Use as default."
+    "version": "1.5.6",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.6/Refract-Setup-1.5.6-win-x64.exe",
+    "sha256": "97f37480432430ccdef5268cb913cbd68fbb9b34ec4aa33a3fc2ace252abd1c9",
+    "notes": "Refract 1.5.6 for Windows fixes \"Refract couldn't open Settings\" (NullReferenceException).\n\nThe Settings window crashed while it was being built, before any page loaded, so every click on Settings ended in that message and the earlier retry hit the same crash. It now builds its navigation first, so Settings opens every time."
   },
   "mac": {
     "version": "1.5.2",
