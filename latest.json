@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.5.6",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.6/Refract-Setup-1.5.6-win-x64.exe",
-    "sha256": "97f37480432430ccdef5268cb913cbd68fbb9b34ec4aa33a3fc2ace252abd1c9",
-    "notes": "Refract 1.5.6 for Windows fixes \"Refract couldn't open Settings\" (NullReferenceException).\n\nThe Settings window crashed while it was being built, before any page loaded, so every click on Settings ended in that message and the earlier retry hit the same crash. It now builds its navigation first, so Settings opens every time."
+    "version": "1.5.7",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.7/Refract-Setup-1.5.7-win-x64.exe",
+    "sha256": "a6f5b0a126b28b1fd1c05620a7c2848e8677d63e55550e1b9e2ade2ad6fb31c0",
+    "notes": "We're sorry. If Refract stopped opening Settings after version 1.5.5, that was our mistake, and it kept you from using the app the way it should work. Version 1.5.6 fixed it, and Settings opens every time now.\n\nRefract 1.5.7 makes the glowing orb in the button look and feel like the Mac's, and gives it a new pattern every time it lights up. Each rewrite picks one of six moods (Aurora, Tide, Swirl, Nebula, Spark or Drift), so it is never quite the same twice. The orb and the comet around the rim are drawn much faster, so the animation stays smooth, and the rim, glow and comet now match the Mac. Your settings and keys stay."
   },
   "mac": {
     "version": "1.5.7",
