@@ -12,9 +12,9 @@
     "notes": "Report a problem, suggest a feature or ask a question from Refract. Choose \"Send feedback\u2026\" below Settings in the menu-bar or button menu, or open Settings \u2192 About \u2192 Feedback and ideas.\n\nYour email is optional. You can include a diagnostics report and see exactly what it contains before sending. Nothing is sent until you press Send. If sending fails, your message stays in the window and Email instead opens your mail app."
   },
   "linux": {
-    "version": "1.5.7",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.5.7/refract-1.5.7-linux.tar.gz",
-    "sha256": "2de383aecce6afe3551ccb4f645c4d82f6d569c3e686745f7cabbf2a2afba31c",
-    "notes": "Refract 1.5.7 for Linux brings the Mac's glowing orb to the prism and gives it a new pattern every time it lights up.\n\nThe orb: while a rewrite runs (and while you hold the prism down), soft light drifts and breathes inside the glass and a comet of light circles the rim, as on the Mac. Each time, it picks one of six moods (Aurora, Tide, Swirl, Nebula, Spark or Drift), so it is never quite the same twice. It is drawn straight to the screen now, so it stays smooth, and it holds still if you have animations turned off in GNOME.\n\nAlso: model lists are tidier (OpenRouter shows its free models, OpenAI and ChatGPT show the newest ten)."
+    "version": "1.5.8",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.5.8/refract-1.5.8-linux.tar.gz",
+    "sha256": "c688f453c53f94c6758db3c5a9a64463a32ce1b773fb40eff547582081f48fb1",
+    "notes": "Report a problem, suggest a feature or ask a question from Refract. Choose \"Send feedback\u2026\" below Settings in the tray or button menu, or open Settings \u2192 Updates & About \u2192 Help and files.\n\nYour email is optional. You can include a diagnostics report and see exactly what it contains before sending. Nothing is sent until you press Send. If sending fails, your message stays in the window and Email instead opens your mail app."
   }
 }
