@@ -6,10 +6,10 @@
     "notes": "Report a problem, suggest a feature or ask a question from Refract. Choose \"Send feedback\u2026\" below Settings in the tray or button menu, or open Settings \u2192 Updates & about \u2192 Feedback and ideas. Settings error messages also offer a feedback button.\n\nYour email is optional. You can include a diagnostics report and see exactly what it contains before sending. Nothing is sent until you press Send. If sending fails, your message stays in the window and Email instead opens your mail app."
   },
   "mac": {
-    "version": "1.5.7",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.5.7/Refract-1.5.7-mac.zip",
-    "sha256": "a4dae04234c3533744970ba3b0e1a6242c80f08c0206cc9699e6ca187ed01d57",
-    "notes": "Refract 1.5.7 for Mac gives the orb a new pattern every time it lights up, and keeps quick messages light.\n\nThe orb: each time you rewrite, the light inside the button picks one of six moods (Aurora, Tide, Swirl, Nebula, Spark or Drift), so it is never quite the same twice. The comet around the rim starts from a different spot each time too.\n\nQuick messages: in an AI app, a very short note now only gets typo fixes and a short reply is only polished, instead of being rebuilt into a long prompt. A real task keeps the app's full preset. You can turn this off in Settings, General, Capture and paste. Review and adjust shows one version straight away, with one-tap Warmer, Firmer, More direct and More detail buttons. In Warp and in terminals, Refract rewrites only the highlighted text and copies the result, so it never selects your scrollback.\n\nAlso: model lists are tidier (OpenRouter shows its free models, OpenAI and ChatGPT show the newest ten), and the command-line tool and Undo stay responsive."
+    "version": "1.5.8",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.5.8/Refract-1.5.8-mac.zip",
+    "sha256": "548d9b5ea26af058d973d7ac5df2f61abc53f0eea454d06e2e9186ecbda9b1db",
+    "notes": "Report a problem, suggest a feature or ask a question from Refract. Choose \"Send feedback\u2026\" below Settings in the menu-bar or button menu, or open Settings \u2192 About \u2192 Feedback and ideas.\n\nYour email is optional. You can include a diagnostics report and see exactly what it contains before sending. Nothing is sent until you press Send. If sending fails, your message stays in the window and Email instead opens your mail app."
   },
   "linux": {
     "version": "1.5.7",
