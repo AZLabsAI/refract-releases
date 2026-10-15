@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.5.7",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.7/Refract-Setup-1.5.7-win-x64.exe",
-    "sha256": "a6f5b0a126b28b1fd1c05620a7c2848e8677d63e55550e1b9e2ade2ad6fb31c0",
-    "notes": "We're sorry. If Refract stopped opening Settings after version 1.5.5, that was our mistake, and it kept you from using the app the way it should work. Version 1.5.6 fixed it, and Settings opens every time now.\n\nRefract 1.5.7 makes the glowing orb in the button look and feel like the Mac's, and gives it a new pattern every time it lights up. Each rewrite picks one of six moods (Aurora, Tide, Swirl, Nebula, Spark or Drift), so it is never quite the same twice. The orb and the comet around the rim are drawn much faster, so the animation stays smooth, and the rim, glow and comet now match the Mac. Your settings and keys stay."
+    "version": "1.5.8",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.8/Refract-Setup-1.5.8-win-x64.exe",
+    "sha256": "64fe342d6f61361693d3ccc73e8695bfb292df94df0175fc9509558df1f51a2f",
+    "notes": "Report a problem, suggest a feature or ask a question from Refract. Choose \"Send feedback\u2026\" below Settings in the tray or button menu, or open Settings \u2192 Updates & about \u2192 Feedback and ideas. Settings error messages also offer a feedback button.\n\nYour email is optional. You can include a diagnostics report and see exactly what it contains before sending. Nothing is sent until you press Send. If sending fails, your message stays in the window and Email instead opens your mail app."
   },
   "mac": {
     "version": "1.5.7",
