@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.5.10",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.10/Refract-Setup-1.5.10-win-x64.exe",
-    "sha256": "8568b577f32320b4328b6322f0ac3a85181f31620e88c768544b4875f9f060ad",
-    "notes": "Fixed the default model picker in Settings and added an opening-error message."
+    "version": "1.5.11",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.11/Refract-Setup-1.5.11-win-x64.exe",
+    "sha256": "658d348ba0272648997dc6a8545fa81838ec08a9c873953e6446bece6dfa7fc7",
+    "notes": "Windows orb animations are on by default. Settings > Appearance can keep the orb and ring still."
   },
   "mac": {
     "version": "1.5.8",
