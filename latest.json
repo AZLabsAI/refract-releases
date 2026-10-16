@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.5.8",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.8/Refract-Setup-1.5.8-win-x64.exe",
-    "sha256": "64fe342d6f61361693d3ccc73e8695bfb292df94df0175fc9509558df1f51a2f",
-    "notes": "Report a problem, suggest a feature or ask a question from Refract. Choose \"Send feedback\u2026\" below Settings in the tray or button menu, or open Settings \u2192 Updates & about \u2192 Feedback and ideas. Settings error messages also offer a feedback button.\n\nYour email is optional. You can include a diagnostics report and see exactly what it contains before sending. Nothing is sent until you press Send. If sending fails, your message stays in the window and Email instead opens your mail app."
+    "version": "1.5.10",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.10/Refract-Setup-1.5.10-win-x64.exe",
+    "sha256": "8568b577f32320b4328b6322f0ac3a85181f31620e88c768544b4875f9f060ad",
+    "notes": "Fixed the default model picker in Settings and added an opening-error message."
   },
   "mac": {
     "version": "1.5.8",
