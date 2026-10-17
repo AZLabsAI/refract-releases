@@ -12,9 +12,9 @@
     "notes": "Report a problem, suggest a feature or ask a question from Refract. Choose \"Send feedback\u2026\" below Settings in the menu-bar or button menu, or open Settings \u2192 About \u2192 Feedback and ideas.\n\nYour email is optional. You can include a diagnostics report and see exactly what it contains before sending. Nothing is sent until you press Send. If sending fails, your message stays in the window and Email instead opens your mail app."
   },
   "linux": {
-    "version": "1.5.8",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.5.8/refract-1.5.8-linux.tar.gz",
-    "sha256": "c688f453c53f94c6758db3c5a9a64463a32ce1b773fb40eff547582081f48fb1",
-    "notes": "Report a problem, suggest a feature or ask a question from Refract. Choose \"Send feedback\u2026\" below Settings in the tray or button menu, or open Settings \u2192 Updates & About \u2192 Help and files.\n\nYour email is optional. You can include a diagnostics report and see exactly what it contains before sending. Nothing is sent until you press Send. If sending fails, your message stays in the window and Email instead opens your mail app."
+    "version": "1.5.12",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.5.12/refract-1.5.12-linux.tar.gz",
+    "sha256": "81cf38fe0473286f25e7b1721807dfd317909e5ee99f5346179bd306c5f6265b",
+    "notes": "New setup window on first launch: choose your model (ChatGPT, Refract Free or another provider), pick your button icon, colour and size, and set a few preferences. Run it again any time with Run setup again\u2026 in Settings or the menu. Feedback you send is now tracked in Linear. Mac and Linux get the Animate orb setting, and Linux gets button symbols."
   }
 }
