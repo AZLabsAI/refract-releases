@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.5.13",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.13/Refract-Setup-1.5.13-win-x64.exe",
-    "sha256": "388b57a93001a9057095448c56137997370ab7621f63abeb8d7bb402b6a27d32",
-    "notes": "Settings now responds straight away when you move between pages (Models, Rewrite styles, Apps and the rest). The other pages are prepared in the background, the Models page no longer redraws provider logos from their full-size artwork on every repaint, and changing an unrelated setting no longer rebuilds the model list."
+    "version": "1.5.14",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.14/Refract-Setup-1.5.14-win-x64.exe",
+    "sha256": "016f3cb7267f65507e0694e8a3deb8e75a3eedba618dd13b717f5e9be3f8cc84",
+    "notes": "Fixed the Edit details and Remove buttons being cut off on the Apps & context page when the Settings window is at its smallest size."
   },
   "mac": {
     "version": "1.5.12",
