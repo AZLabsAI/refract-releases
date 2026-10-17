@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.5.11",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.11/Refract-Setup-1.5.11-win-x64.exe",
-    "sha256": "658d348ba0272648997dc6a8545fa81838ec08a9c873953e6446bece6dfa7fc7",
-    "notes": "Windows orb animations are on by default. Settings > Appearance can keep the orb and ring still."
+    "version": "1.5.12",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.12/Refract-Setup-1.5.12-win-x64.exe",
+    "sha256": "1bad92efa245bc84ede66e881b06ac51ddd76a007d53a55d3872f65a8103904d",
+    "notes": "New setup window on first launch: choose your model (ChatGPT, Refract Free or another provider), pick your button icon, colour and size, and set a few preferences. Run it again any time with Run setup again\u2026 in Settings or the menu. Feedback you send is now tracked in Linear. Mac and Linux get the Animate orb setting, and Linux gets button symbols."
   },
   "mac": {
     "version": "1.5.8",
