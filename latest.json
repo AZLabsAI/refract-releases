@@ -6,10 +6,10 @@
     "notes": "Refract Free now uses the AZ Labs logo. Added AZ Labs company credits and website links, plus optional PayPal donations in Free settings and About. PayPal lists the receiving account as Buy and Save."
   },
   "mac": {
-    "version": "1.5.12",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.5.12/Refract-1.5.12-mac.zip",
-    "sha256": "f5c48ce9b54041168cbc1f70d2f118ad44b7679e3005d2fe5ba63530dae126df",
-    "notes": "New setup window on first launch: choose your model (ChatGPT, Refract Free or another provider), pick your button icon, colour and size, and set a few preferences. Run it again any time with Run setup again\u2026 in Settings or the menu. Feedback you send is now tracked in Linear. Mac and Linux get the Animate orb setting, and Linux gets button symbols."
+    "version": "1.5.15",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.5.15/Refract-1.5.15-mac.zip",
+    "sha256": "6b22c0ffc4dec791e84ee6aa4629f5b64261cc130372f22ffd907842aad76d63",
+    "notes": "Refract Free now uses the AZ Labs logo. Added AZ Labs company credits and website links, plus optional PayPal donations in Free settings and About. PayPal lists the receiving account as Buy and Save."
   },
   "linux": {
     "version": "1.5.15",
