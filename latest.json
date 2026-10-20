@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.5.14",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.14/Refract-Setup-1.5.14-win-x64.exe",
-    "sha256": "016f3cb7267f65507e0694e8a3deb8e75a3eedba618dd13b717f5e9be3f8cc84",
-    "notes": "Fixed the Edit details and Remove buttons being cut off on the Apps & context page when the Settings window is at its smallest size."
+    "version": "1.5.15",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.15/Refract-Setup-1.5.15-win-x64.exe",
+    "sha256": "e3565e1cf327aa9bfa26a0b4de76d1980ea8b1d3c9648482d0fa176b44aefd69",
+    "notes": "Refract Free now uses the AZ Labs logo. Added AZ Labs company credits and website links, plus optional PayPal donations in Free settings and About. PayPal lists the receiving account as Buy and Save."
   },
   "mac": {
     "version": "1.5.12",
