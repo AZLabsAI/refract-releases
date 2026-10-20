@@ -12,9 +12,9 @@
     "notes": "New setup window on first launch: choose your model (ChatGPT, Refract Free or another provider), pick your button icon, colour and size, and set a few preferences. Run it again any time with Run setup again\u2026 in Settings or the menu. Feedback you send is now tracked in Linear. Mac and Linux get the Animate orb setting, and Linux gets button symbols."
   },
   "linux": {
-    "version": "1.5.12",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.5.12/refract-1.5.12-linux.tar.gz",
-    "sha256": "81cf38fe0473286f25e7b1721807dfd317909e5ee99f5346179bd306c5f6265b",
-    "notes": "New setup window on first launch: choose your model (ChatGPT, Refract Free or another provider), pick your button icon, colour and size, and set a few preferences. Run it again any time with Run setup again\u2026 in Settings or the menu. Feedback you send is now tracked in Linear. Mac and Linux get the Animate orb setting, and Linux gets button symbols."
+    "version": "1.5.15",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.5.15/refract-1.5.15-linux.tar.gz",
+    "sha256": "456ce7b1c579fc8aacd449269d845c033a805f2420fe77635c4cc77844803a8d",
+    "notes": "Refract Free now uses the AZ Labs logo. Added AZ Labs company credits and website links, plus optional PayPal donations in Free settings and About. PayPal lists the receiving account as Buy and Save."
   }
 }
