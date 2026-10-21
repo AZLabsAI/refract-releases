@@ -12,9 +12,9 @@
     "notes": "Refract Free now uses the AZ Labs logo. Added AZ Labs company credits and website links, plus optional PayPal donations in Free settings and About. PayPal lists the receiving account as Buy and Save."
   },
   "linux": {
-    "version": "1.5.15",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.5.15/refract-1.5.15-linux.tar.gz",
-    "sha256": "456ce7b1c579fc8aacd449269d845c033a805f2420fe77635c4cc77844803a8d",
-    "notes": "Refract Free now uses the AZ Labs logo. Added AZ Labs company credits and website links, plus optional PayPal donations in Free settings and About. PayPal lists the receiving account as Buy and Save."
+    "version": "1.5.16",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.5.16/refract-1.5.16-linux.tar.gz",
+    "sha256": "fb4556f0f9487517020630cef0ab72fb972e96b9f46cd7d0c063f71ab274ca24",
+    "notes": "Settings now has grouped search, theme and spacing choices, accessibility controls, and separate display and button resets on all three desktops."
   }
 }
