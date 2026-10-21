@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.5.15",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.15/Refract-Setup-1.5.15-win-x64.exe",
-    "sha256": "e3565e1cf327aa9bfa26a0b4de76d1980ea8b1d3c9648482d0fa176b44aefd69",
-    "notes": "Refract Free now uses the AZ Labs logo. Added AZ Labs company credits and website links, plus optional PayPal donations in Free settings and About. PayPal lists the receiving account as Buy and Save."
+    "version": "1.5.16",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.16/Refract-Setup-1.5.16-win-x64.exe",
+    "sha256": "9405ccf7e7e14e5c0b482fb193ad7d05de9878567e7b1482e1f5c0f888ffe5e6",
+    "notes": "Settings now has grouped search, theme and spacing choices, accessibility controls, and separate display and button resets on all three desktops."
   },
   "mac": {
     "version": "1.5.15",
