@@ -6,10 +6,10 @@
     "notes": "Settings now has grouped search, theme and spacing choices, accessibility controls, and separate display and button resets on all three desktops."
   },
   "mac": {
-    "version": "1.5.15",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.5.15/Refract-1.5.15-mac.zip",
-    "sha256": "6b22c0ffc4dec791e84ee6aa4629f5b64261cc130372f22ffd907842aad76d63",
-    "notes": "Refract Free now uses the AZ Labs logo. Added AZ Labs company credits and website links, plus optional PayPal donations in Free settings and About. PayPal lists the receiving account as Buy and Save."
+    "version": "1.5.16",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.5.16/Refract-1.5.16-mac.zip",
+    "sha256": "1e2f96641c29e338aea066f383278ac95a23440655c3d722fc28fe9687b934c7",
+    "notes": "Settings now has grouped search, theme and spacing choices, accessibility controls, and separate display and button resets on all three desktops."
   },
   "linux": {
     "version": "1.5.16",
