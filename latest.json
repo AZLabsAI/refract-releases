@@ -6,10 +6,10 @@
     "notes": "Settings now has grouped search, theme and spacing choices, accessibility controls, and separate display and button resets on all three desktops."
   },
   "mac": {
-    "version": "1.5.18",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.5.18/Refract-1.5.18-mac.zip",
-    "sha256": "f61d2579431e9ada8bbb822940dbf6fc918a9f71954262f18b8d097f4bf63a09",
-    "notes": "Mac: Settings has a new look that matches System Settings, with a sidebar, back and forward buttons and much quicker page switching."
+    "version": "1.5.19",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.5.19/Refract-1.5.19-mac.zip",
+    "sha256": "a72a7f7677d61b074e74046eac52a676727a90dbf12762f4e514bf4e108c5f2b",
+    "notes": "Mac: Refract now shows a red mark on the button and menu bar icon within seconds of a new update being released, with a hover message to tell you."
   },
   "linux": {
     "version": "1.5.16",
