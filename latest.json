@@ -6,10 +6,10 @@
     "notes": "Settings now has grouped search, theme and spacing choices, accessibility controls, and separate display and button resets on all three desktops."
   },
   "mac": {
-    "version": "1.5.17",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.5.17/Refract-1.5.17-mac.zip",
-    "sha256": "73dfc2f9ffef9b12b9cb3ff12a68cd629a3598564c2dccaf280cdf6bb13e07a9",
-    "notes": "Mac: drag the provider strip left or right, or use a regular mouse wheel for smooth horizontal scrolling. Includes a horizontal scrollbar and Reduce Motion support."
+    "version": "1.5.18",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.5.18/Refract-1.5.18-mac.zip",
+    "sha256": "f61d2579431e9ada8bbb822940dbf6fc918a9f71954262f18b8d097f4bf63a09",
+    "notes": "Mac: Settings has a new look that matches System Settings, with a sidebar, back and forward buttons and much quicker page switching."
   },
   "linux": {
     "version": "1.5.16",
