@@ -6,10 +6,10 @@
     "notes": "Settings now has grouped search, theme and spacing choices, accessibility controls, and separate display and button resets on all three desktops."
   },
   "mac": {
-    "version": "1.5.19",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.5.19/Refract-1.5.19-mac.zip",
-    "sha256": "a72a7f7677d61b074e74046eac52a676727a90dbf12762f4e514bf4e108c5f2b",
-    "notes": "Mac: Refract now shows a red mark on the button and menu bar icon within seconds of a new update being released, with a hover message to tell you."
+    "version": "1.5.20",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.5.20/Refract-1.5.20-mac.zip",
+    "sha256": "04d73305fd87a7ac320776e3cf05783c0100715022b307a8ee61b11c56287545",
+    "notes": "Mac: Re-signed universal build with active Apple Development certificate and live OCSP revocation verification so Gatekeeper never shows a revoked-certificate warning."
   },
   "linux": {
     "version": "1.5.16",
