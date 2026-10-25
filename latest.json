@@ -6,10 +6,10 @@
     "notes": "Cross-platform release with live fleet telemetry, country/device analytics, and OpenRouter app attribution"
   },
   "mac": {
-    "version": "1.5.20",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.5.20/Refract-1.5.20-mac.zip",
-    "sha256": "04d73305fd87a7ac320776e3cf05783c0100715022b307a8ee61b11c56287545",
-    "notes": "Mac: Re-signed universal build with active Apple Development certificate and live OCSP revocation verification so Gatekeeper never shows a revoked-certificate warning."
+    "version": "1.5.21",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.5.21/Refract-1.5.21-mac.zip",
+    "sha256": "873c373aa6b6e239eedb5346770c4b8bcfdc9c9f35abc28bb57e6365bb841f04",
+    "notes": "Cross-platform release with live fleet telemetry, country/device analytics, and OpenRouter app attribution"
   },
   "linux": {
     "version": "1.5.21",
