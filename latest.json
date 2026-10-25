@@ -12,9 +12,9 @@
     "notes": "Mac: Re-signed universal build with active Apple Development certificate and live OCSP revocation verification so Gatekeeper never shows a revoked-certificate warning."
   },
   "linux": {
-    "version": "1.5.16",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.5.16/refract-1.5.16-linux.tar.gz",
-    "sha256": "fb4556f0f9487517020630cef0ab72fb972e96b9f46cd7d0c063f71ab274ca24",
-    "notes": "Settings now has grouped search, theme and spacing choices, accessibility controls, and separate display and button resets on all three desktops."
+    "version": "1.5.21",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.5.21/refract-1.5.21-linux.tar.gz",
+    "sha256": "d0fe34814309dcbb66938b1ac9a37ef8d9aef86c8b7ad16ad2fa61cbd46d318b",
+    "notes": "Cross-platform release with live fleet telemetry, country/device analytics, and OpenRouter app attribution"
   }
 }
