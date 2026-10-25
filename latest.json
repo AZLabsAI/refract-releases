@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.5.16",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.16/Refract-Setup-1.5.16-win-x64.exe",
-    "sha256": "9405ccf7e7e14e5c0b482fb193ad7d05de9878567e7b1482e1f5c0f888ffe5e6",
-    "notes": "Settings now has grouped search, theme and spacing choices, accessibility controls, and separate display and button resets on all three desktops."
+    "version": "1.5.21",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.21/Refract-Setup-1.5.21-win-x64.exe",
+    "sha256": "2babcef868c33dbc852553ac985b4a4d4498c889e3ebb3a01f0d3339ddae9ed1",
+    "notes": "Cross-platform release with live fleet telemetry, country/device analytics, and OpenRouter app attribution"
   },
   "mac": {
     "version": "1.5.20",
