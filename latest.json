@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.5.21",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.21/Refract-Setup-1.5.21-win-x64.exe",
-    "sha256": "2babcef868c33dbc852553ac985b4a4d4498c889e3ebb3a01f0d3339ddae9ed1",
-    "notes": "Cross-platform release with live fleet telemetry, country/device analytics, and OpenRouter app attribution"
+    "version": "1.5.22",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.22/Refract-Setup-1.5.22-win-x64.exe",
+    "sha256": "5e4ce1fc20c8b54453777fb902d77675610cf841ff0f90f56cc9ed7509da911e",
+    "notes": "Light and dark mode now cover every Refract window, with readable text in both themes"
   },
   "mac": {
     "version": "1.5.21",
