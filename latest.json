@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.5.24",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.24/Refract-Setup-1.5.24-win-x64.exe",
-    "sha256": "52b639843dd30c47e26034da92896fc375960305e63fa5ab22e10829dca8e10b",
-    "notes": "Full-speed mouse-wheel scrolling in Settings"
+    "version": "1.5.25",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.25/Refract-Setup-1.5.25-win-x64.exe",
+    "sha256": "7a6e2d60fb91b88da25f1e64f8d9f6eeed84b9bf823d1eb3d943c73964127511",
+    "notes": "Mouse wheel never gets stuck; no stutter after opening Settings"
   },
   "mac": {
     "version": "1.5.21",
