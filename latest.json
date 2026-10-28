@@ -6,10 +6,10 @@
     "notes": "New Wispr Flow-style Settings on Mac, Windows and Linux; safer prompt rewriting in terminals"
   },
   "mac": {
-    "version": "1.5.21",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.5.21/Refract-1.5.21-mac.zip",
-    "sha256": "873c373aa6b6e239eedb5346770c4b8bcfdc9c9f35abc28bb57e6365bb841f04",
-    "notes": "Cross-platform release with live fleet telemetry, country/device analytics, and OpenRouter app attribution"
+    "version": "1.6.0",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.6.0/Refract-1.6.0-mac.zip",
+    "sha256": "b1c4f3283d30d79ba964b4a2ca33fc1d9af613154284e1ea32c2f46d247c0ca5",
+    "notes": "New Wispr Flow-style Settings on Mac, Windows and Linux; safer prompt rewriting in terminals"
   },
   "linux": {
     "version": "1.6.0",
