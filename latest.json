@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.5.22",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.22/Refract-Setup-1.5.22-win-x64.exe",
-    "sha256": "5e4ce1fc20c8b54453777fb902d77675610cf841ff0f90f56cc9ed7509da911e",
-    "notes": "Light and dark mode now cover every Refract window, with readable text in both themes"
+    "version": "1.5.23",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.23/Refract-Setup-1.5.23-win-x64.exe",
+    "sha256": "d0a4f7f49070e535a1f0cedc37bea60210ddf799eba030aeca1412ddbcb79153",
+    "notes": "Lag-free Settings page changes, tactile buttons and switches, matching drop-downs and smooth scrolling"
   },
   "mac": {
     "version": "1.5.21",
