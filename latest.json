@@ -12,9 +12,9 @@
     "notes": "Cross-platform release with live fleet telemetry, country/device analytics, and OpenRouter app attribution"
   },
   "linux": {
-    "version": "1.5.21",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.5.21/refract-1.5.21-linux.tar.gz",
-    "sha256": "d0fe34814309dcbb66938b1ac9a37ef8d9aef86c8b7ad16ad2fa61cbd46d318b",
-    "notes": "Cross-platform release with live fleet telemetry, country/device analytics, and OpenRouter app attribution"
+    "version": "1.6.0",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.6.0/refract-1.6.0-linux.tar.gz",
+    "sha256": "fade3d0185b24fe920c4b13757b9b02323bf91d8f377f6ba901d3e4fdb34488b",
+    "notes": "New Wispr Flow-style Settings on Mac, Windows and Linux; safer prompt rewriting in terminals"
   }
 }
