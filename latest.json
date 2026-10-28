@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.5.25",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.25/Refract-Setup-1.5.25-win-x64.exe",
-    "sha256": "7a6e2d60fb91b88da25f1e64f8d9f6eeed84b9bf823d1eb3d943c73964127511",
-    "notes": "Mouse wheel never gets stuck; no stutter after opening Settings"
+    "version": "1.6.0",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.0/Refract-Setup-1.6.0-win-x64.exe",
+    "sha256": "7511787a908e5c8738547f44e41432120245777c0041b562cf7ce3fc04b30704",
+    "notes": "New Wispr Flow-style Settings on Mac, Windows and Linux; safer prompt rewriting in terminals"
   },
   "mac": {
     "version": "1.5.21",
