@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.5.23",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.23/Refract-Setup-1.5.23-win-x64.exe",
-    "sha256": "d0a4f7f49070e535a1f0cedc37bea60210ddf799eba030aeca1412ddbcb79153",
-    "notes": "Lag-free Settings page changes, tactile buttons and switches, matching drop-downs and smooth scrolling"
+    "version": "1.5.24",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.5.24/Refract-Setup-1.5.24-win-x64.exe",
+    "sha256": "52b639843dd30c47e26034da92896fc375960305e63fa5ab22e10829dca8e10b",
+    "notes": "Full-speed mouse-wheel scrolling in Settings"
   },
   "mac": {
     "version": "1.5.21",
