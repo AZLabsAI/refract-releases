@@ -6,10 +6,10 @@
     "notes": "Support buttons now say Buy me a coffee. Mac also adds a slow-rewrite caption and a menu bar setup indicator."
   },
   "mac": {
-    "version": "1.6.0",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.6.0/Refract-1.6.0-mac.zip",
-    "sha256": "b1c4f3283d30d79ba964b4a2ca33fc1d9af613154284e1ea32c2f46d247c0ca5",
-    "notes": "New Wispr Flow-style Settings on Mac, Windows and Linux; safer prompt rewriting in terminals"
+    "version": "1.6.1",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.6.1/Refract-1.6.1-mac.zip",
+    "sha256": "e51326e732bf5d394743ae6fcaa9e397d1880ecdfde3a1657642f3280e34de4c",
+    "notes": "Support buttons now say Buy me a coffee. Mac also adds a slow-rewrite caption and a menu bar setup indicator."
   },
   "linux": {
     "version": "1.6.1",
