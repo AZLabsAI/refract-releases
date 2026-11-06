@@ -12,9 +12,9 @@
     "notes": "Support buttons now say Buy me a coffee. Mac also adds a slow-rewrite caption and a menu bar setup indicator."
   },
   "linux": {
-    "version": "1.6.1",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.6.1/refract-1.6.1-linux.tar.gz",
-    "sha256": "428c1de11487f2d8ed5097ad8fed10eb91a70f01d44c15a5f7911cc66ec00b23",
-    "notes": "Support buttons now say Buy me a coffee. Mac also adds a slow-rewrite caption and a menu bar setup indicator."
+    "version": "1.6.2",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.6.2/refract-1.6.2-linux.tar.gz",
+    "sha256": "acc01d1a341561321ef91fad73ad122a76756cf7e4243751d01a2be4576e5dc4",
+    "notes": "Mac update notifications now appear only when the update is ready. Selecting Update starts from checked download details, including during a background check."
   }
 }
