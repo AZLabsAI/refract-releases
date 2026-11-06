@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.6.0",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.0/Refract-Setup-1.6.0-win-x64.exe",
-    "sha256": "7511787a908e5c8738547f44e41432120245777c0041b562cf7ce3fc04b30704",
-    "notes": "New Wispr Flow-style Settings on Mac, Windows and Linux; safer prompt rewriting in terminals"
+    "version": "1.6.1",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.1/Refract-Setup-1.6.1-win-x64.exe",
+    "sha256": "b63bf376fdb9ccb469ff36500e482dea0eb50214310129ec6cef0fd7c962fc6f",
+    "notes": "Support buttons now say Buy me a coffee. Mac also adds a slow-rewrite caption and a menu bar setup indicator."
   },
   "mac": {
     "version": "1.6.0",
