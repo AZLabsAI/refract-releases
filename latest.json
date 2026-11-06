@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.6.1",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.1/Refract-Setup-1.6.1-win-x64.exe",
-    "sha256": "b63bf376fdb9ccb469ff36500e482dea0eb50214310129ec6cef0fd7c962fc6f",
-    "notes": "Support buttons now say Buy me a coffee. Mac also adds a slow-rewrite caption and a menu bar setup indicator."
+    "version": "1.6.2",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.2/Refract-Setup-1.6.2-win-x64.exe",
+    "sha256": "a877f672cfbacdfbaacf07e0a14a77b69059011d635e7228ece5e822498dfbd3",
+    "notes": "Mac update notifications now appear only when the update is ready. Selecting Update starts from checked download details, including during a background check."
   },
   "mac": {
     "version": "1.6.2",
