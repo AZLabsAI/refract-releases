@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.6.4",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.4/Refract-Setup-1.6.4-win-x64.exe",
-    "sha256": "1a28b66f72a59e9873c511d886559daa6fa162ce306f7bb4007339bd06696155",
-    "notes": "Refract 1.6.4: Refract Pro monetization, see-through 33% opacity, owner dashboard, PayPal subscription support"
+    "version": "1.6.5",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.5/Refract-Setup-1.6.5-win-x64.exe",
+    "sha256": "f608aa69865b2163630b854c3134984b1532be5085e4c26dedac1f016eb89190",
+    "notes": "Refract 1.6.5: WorkOS Google Authentication, prominent Wispr Flow tier badging, real usage telemetry graphs"
   },
   "mac": {
     "version": "1.6.4",
