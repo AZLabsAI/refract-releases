@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.6.6",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.6/Refract-Setup-1.6.6-win-x64.exe",
-    "sha256": "01722b05717cdf85ad3c5e1290cc624f998bbb29fe713f4023ec9691b47ce0ae",
-    "notes": "Refract 1.6.6: Full Refract Pro feature parity on Linux and Windows, WorkOS Google OAuth, Account dashboard, Wispr Flow Pro badging, and usage telemetry"
+    "version": "1.6.8",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.8/Refract-Setup-1.6.8-win-x64.exe",
+    "sha256": "04f7707ca1f365300fcc7fa2859dc4fd30b1f7adc1217dc0bbaa178a459f5ce0",
+    "notes": "AZ Labs sign-in is now required for every rewrite. Continue with Google, GitHub, Microsoft or your existing AZ Labs account. Sessions renew securely, and ordinary accounts start on Refract Free. Sign in once after updating; your settings and local history are preserved."
   },
   "mac": {
     "version": "1.6.6",
