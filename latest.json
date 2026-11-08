@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.6.3",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.3/Refract-Setup-1.6.3-win-x64.exe",
-    "sha256": "08664a39d79d75fdb627819ca29de077a9ef2a1c2b82048e078624b4d5e2a788",
-    "notes": "Add Gemini 3.8 Flash-Lite to recommended Google Gemini models; support jev-latest"
+    "version": "1.6.4",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.4/Refract-Setup-1.6.4-win-x64.exe",
+    "sha256": "1a28b66f72a59e9873c511d886559daa6fa162ce306f7bb4007339bd06696155",
+    "notes": "Refract 1.6.4: Refract Pro monetization, see-through 33% opacity, owner dashboard, PayPal subscription support"
   },
   "mac": {
     "version": "1.6.3",
