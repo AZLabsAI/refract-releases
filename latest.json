@@ -12,9 +12,9 @@
     "notes": "Refract 1.6.5: WorkOS Google Authentication, prominent Wispr Flow tier badging, real usage telemetry graphs"
   },
   "linux": {
-    "version": "1.6.5",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.6.5/refract-1.6.5-linux.tar.gz",
-    "sha256": "dc58a32ede4a36775656d1280d143da6a143be7bc2b776196db961eec0d710bd",
-    "notes": "Refract 1.6.5: WorkOS Google Authentication, prominent Wispr Flow tier badging, real usage telemetry graphs"
+    "version": "1.6.6",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.6.6/refract-1.6.6-linux.tar.gz",
+    "sha256": "43e0473ce11368abe3a0a9bf22d7b178c029c1e17d00a9d01c03c17632a84e5f",
+    "notes": "Refract 1.6.6: Full Refract Pro feature parity on Linux and Windows, WorkOS Google OAuth, Account dashboard, Wispr Flow Pro badging, and usage telemetry"
   }
 }
