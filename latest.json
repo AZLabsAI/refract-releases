@@ -12,9 +12,9 @@
     "notes": "Refract 1.6.4: Refract Pro monetization, see-through 33% opacity, owner dashboard, PayPal subscription support"
   },
   "linux": {
-    "version": "1.6.4",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.6.4/refract-1.6.4-linux.tar.gz",
-    "sha256": "3db0f0477e940f444f198a2a99814c3ec7d674c46fd1d8f48dd1fd4e8e1ee9ba",
-    "notes": "Refract 1.6.4: Refract Pro monetization, see-through 33% opacity, owner dashboard, PayPal subscription support"
+    "version": "1.6.5",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.6.5/refract-1.6.5-linux.tar.gz",
+    "sha256": "dc58a32ede4a36775656d1280d143da6a143be7bc2b776196db961eec0d710bd",
+    "notes": "Refract 1.6.5: WorkOS Google Authentication, prominent Wispr Flow tier badging, real usage telemetry graphs"
   }
 }
