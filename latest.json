@@ -6,10 +6,10 @@
     "notes": "Refract 1.6.5: WorkOS Google Authentication, prominent Wispr Flow tier badging, real usage telemetry graphs"
   },
   "mac": {
-    "version": "1.6.4",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.6.4/Refract-1.6.4-mac.zip",
-    "sha256": "1354d728a62eb06942d5e1136403faa9900253e3edb7c21f18e9441e19d5dbfa",
-    "notes": "Refract 1.6.4: Refract Pro monetization, see-through 33% opacity, owner dashboard, PayPal subscription support"
+    "version": "1.6.5",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.6.5/Refract-1.6.5-mac.zip",
+    "sha256": "ff12ddd5d8821b0f27e3cccd2baec8cb693e164df75138eb4728df93f75d8114",
+    "notes": "Refract 1.6.5: WorkOS Google Authentication, prominent Wispr Flow tier badging, real usage telemetry graphs"
   },
   "linux": {
     "version": "1.6.5",
