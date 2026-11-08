@@ -12,9 +12,9 @@
     "notes": "Mac update notifications now appear only when the update is ready. Selecting Update starts from checked download details, including during a background check."
   },
   "linux": {
-    "version": "1.6.2",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.6.2/refract-1.6.2-linux.tar.gz",
-    "sha256": "acc01d1a341561321ef91fad73ad122a76756cf7e4243751d01a2be4576e5dc4",
-    "notes": "Mac update notifications now appear only when the update is ready. Selecting Update starts from checked download details, including during a background check."
+    "version": "1.6.3",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.6.3/refract-1.6.3-linux.tar.gz",
+    "sha256": "fcb74394cfbaf93773f7eb1ef78a9b5dcb2965ad866dc7b62bd8d67b114cd576",
+    "notes": "Add Gemini 3.8 Flash-Lite to recommended Google Gemini models; support jev-latest"
   }
 }
