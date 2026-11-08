@@ -6,10 +6,10 @@
     "notes": "Refract 1.6.4: Refract Pro monetization, see-through 33% opacity, owner dashboard, PayPal subscription support"
   },
   "mac": {
-    "version": "1.6.3",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.6.3/Refract-1.6.3-mac.zip",
-    "sha256": "15a3a9959fae01dfb7cc4ad18d3b348fdc32308b64cb97c4f93fa7eef750202a",
-    "notes": "Add Gemini 3.8 Flash-Lite to recommended Google Gemini models; support jev-latest"
+    "version": "1.6.4",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.6.4/Refract-1.6.4-mac.zip",
+    "sha256": "1354d728a62eb06942d5e1136403faa9900253e3edb7c21f18e9441e19d5dbfa",
+    "notes": "Refract 1.6.4: Refract Pro monetization, see-through 33% opacity, owner dashboard, PayPal subscription support"
   },
   "linux": {
     "version": "1.6.4",
