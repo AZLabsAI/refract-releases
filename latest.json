@@ -6,10 +6,10 @@
     "notes": "Add Gemini 3.8 Flash-Lite to recommended Google Gemini models; support jev-latest"
   },
   "mac": {
-    "version": "1.6.2",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.6.2/Refract-1.6.2-mac.zip",
-    "sha256": "6f623c6b2945f634758c3f76f21ddadd19de8289d1a59b8f253c6ece1bc91043",
-    "notes": "Mac update notifications now appear only when the update is ready. Selecting Update starts from checked download details, including during a background check."
+    "version": "1.6.3",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.6.3/Refract-1.6.3-mac.zip",
+    "sha256": "15a3a9959fae01dfb7cc4ad18d3b348fdc32308b64cb97c4f93fa7eef750202a",
+    "notes": "Add Gemini 3.8 Flash-Lite to recommended Google Gemini models; support jev-latest"
   },
   "linux": {
     "version": "1.6.3",
