@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.6.2",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.2/Refract-Setup-1.6.2-win-x64.exe",
-    "sha256": "a877f672cfbacdfbaacf07e0a14a77b69059011d635e7228ece5e822498dfbd3",
-    "notes": "Mac update notifications now appear only when the update is ready. Selecting Update starts from checked download details, including during a background check."
+    "version": "1.6.3",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.3/Refract-Setup-1.6.3-win-x64.exe",
+    "sha256": "08664a39d79d75fdb627819ca29de077a9ef2a1c2b82048e078624b4d5e2a788",
+    "notes": "Add Gemini 3.8 Flash-Lite to recommended Google Gemini models; support jev-latest"
   },
   "mac": {
     "version": "1.6.2",
