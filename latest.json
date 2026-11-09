@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.6.16",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.16/Refract-Setup-1.6.16-win-x64.exe",
-    "sha256": "bdb8f68fd371875cec8ed4498a24b7f4ffa07b43048a35df886bad1b70a657e5",
-    "notes": "Curates Google model choices and applies per-model thinking defaults."
+    "version": "1.6.17",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.17/Refract-Setup-1.6.17-win-x64.exe",
+    "sha256": "3d7e9f19a279e2aba63f9b92f2c64437e97a14e46548224516de4ad22925927f",
+    "notes": "Prompt rewrites preserve captured text and intent, with safer cleanup and updated default instructions."
   },
   "mac": {
     "version": "1.6.16",
