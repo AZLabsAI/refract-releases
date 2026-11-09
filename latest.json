@@ -12,9 +12,9 @@
     "notes": "Hover over the prism to see the last refraction\u2019s model and duration. Mac: the button follows your active display and keeps its parked position."
   },
   "linux": {
-    "version": "1.6.14",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.6.14/refract-1.6.14-linux.tar.gz",
-    "sha256": "0dc7b896270d511dc4a32da8fc808f58e3ed8e4e7295b1c85cd54114e1260fd5",
-    "notes": "Hover over the prism to see the last refraction\u2019s model and duration. Mac: the button follows your active display and keeps its parked position."
+    "version": "1.6.16",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.6.16/refract-1.6.16-linux.tar.gz",
+    "sha256": "75373b18e12ba29131db0f0556c5bb070ec888c8045ec92d45d20f4fbebf40ea",
+    "notes": "Curates Google model choices and applies per-model thinking defaults."
   }
 }
