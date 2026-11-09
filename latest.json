@@ -12,9 +12,9 @@
     "notes": "Settings has a new look on Mac, Windows and Linux: a clean sidebar with search, your account pinned at the bottom, and simple rows in light or dark. Models & providers now has Overview, Browse and Providers tabs. Every setting is still here."
   },
   "linux": {
-    "version": "1.6.13",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.6.13/refract-1.6.13-linux.tar.gz",
-    "sha256": "f7d24852fba4078ed1e37c68fcf03b17ab2c2791f814ee5d4e9d95ecd01bf30f",
-    "notes": "Settings has a new look on Mac, Windows and Linux: a clean sidebar with search, your account pinned at the bottom, and simple rows in light or dark. Models & providers now has Overview, Browse and Providers tabs. Every setting is still here."
+    "version": "1.6.14",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.6.14/refract-1.6.14-linux.tar.gz",
+    "sha256": "0dc7b896270d511dc4a32da8fc808f58e3ed8e4e7295b1c85cd54114e1260fd5",
+    "notes": "Hover over the prism to see the last refraction\u2019s model and duration. Mac: the button follows your active display and keeps its parked position."
   }
 }
