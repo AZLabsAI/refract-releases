@@ -12,9 +12,9 @@
     "notes": "Curates Google model choices and applies per-model thinking defaults."
   },
   "linux": {
-    "version": "1.6.16",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.6.16/refract-1.6.16-linux.tar.gz",
-    "sha256": "75373b18e12ba29131db0f0556c5bb070ec888c8045ec92d45d20f4fbebf40ea",
-    "notes": "Curates Google model choices and applies per-model thinking defaults."
+    "version": "1.6.17",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.6.17/refract-1.6.17-linux.tar.gz",
+    "sha256": "66078c206518aca50b1d01e711bf461fd1f64a6ebeeaa5cee6c27e5dcc91c0ac",
+    "notes": "Prompt rewrites preserve captured text and intent, with safer cleanup and updated default instructions."
   }
 }
