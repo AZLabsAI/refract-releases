@@ -6,10 +6,10 @@
     "notes": "Curates Google model choices and applies per-model thinking defaults."
   },
   "mac": {
-    "version": "1.6.14",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.6.14/Refract-1.6.14-mac.zip",
-    "sha256": "82131a6f3ac6d2056846d89c77f1840b1f9060b953e1aad797ab387b7565bdc1",
-    "notes": "Hover over the prism to see the last refraction\u2019s model and duration. Mac: the button follows your active display and keeps its parked position."
+    "version": "1.6.16",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.6.16/Refract-1.6.16-mac.zip",
+    "sha256": "0600397e00dee1355faa01bcd9d355c5ff1d032302fc87ce7fc9bff711a90c67",
+    "notes": "Curates Google model choices and applies per-model thinking defaults."
   },
   "linux": {
     "version": "1.6.16",
