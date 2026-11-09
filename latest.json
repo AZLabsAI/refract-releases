@@ -6,10 +6,10 @@
     "notes": "Settings has a new look on Mac, Windows and Linux: a clean sidebar with search, your account pinned at the bottom, and simple rows in light or dark. Models & providers now has Overview, Browse and Providers tabs. Every setting is still here."
   },
   "mac": {
-    "version": "1.6.12",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.6.12/Refract-1.6.12-mac.zip",
-    "sha256": "62ff5fd749b9389740ecb73348474bda2084c83ddfaa7dc15573d20c2b05263a",
-    "notes": "Sign-in works again on every platform. On Mac, the sign-in window uses the standard Continue with Google, Microsoft, GitHub or email buttons with official logos, and the browser's Open Refract button now takes you straight back (choose Always allow once)."
+    "version": "1.6.13",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.6.13/Refract-1.6.13-mac.zip",
+    "sha256": "f5f4521bf3cd70a15a6686760aae5e21ef8a57706b50b47dc750fc8ddddf1f98",
+    "notes": "Settings has a new look on Mac, Windows and Linux: a clean sidebar with search, your account pinned at the bottom, and simple rows in light or dark. Models & providers now has Overview, Browse and Providers tabs. Every setting is still here."
   },
   "linux": {
     "version": "1.6.13",
