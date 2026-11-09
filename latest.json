@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.6.8",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.8/Refract-Setup-1.6.8-win-x64.exe",
-    "sha256": "04f7707ca1f365300fcc7fa2859dc4fd30b1f7adc1217dc0bbaa178a459f5ce0",
-    "notes": "AZ Labs sign-in is now required for every rewrite. Continue with Google, GitHub, Microsoft or your existing AZ Labs account. Sessions renew securely, and ordinary accounts start on Refract Free. Sign in once after updating; your settings and local history are preserved."
+    "version": "1.6.11",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.11/Refract-Setup-1.6.11-win-x64.exe",
+    "sha256": "012240cf3e954f1ea36d8473461d8fafe106bb0f69e89e5c91050ef86005903d",
+    "notes": "New Mac sign-in screen, and saved sign-ins now survive updates. Continue with AZ Labs, Google, GitHub or Microsoft. Refract reconnects your saved account on its own after temporary connection or Keychain hiccups. Refract Pro billing is linked to your AZ Labs account; Refract Free still needs no subscription or API key."
   },
   "mac": {
     "version": "1.6.8",
