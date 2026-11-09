@@ -6,10 +6,10 @@
     "notes": "Hover over the prism to see the last refraction\u2019s model and duration. Mac: the button follows your active display and keeps its parked position."
   },
   "mac": {
-    "version": "1.6.13",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.6.13/Refract-1.6.13-mac.zip",
-    "sha256": "f5f4521bf3cd70a15a6686760aae5e21ef8a57706b50b47dc750fc8ddddf1f98",
-    "notes": "Settings has a new look on Mac, Windows and Linux: a clean sidebar with search, your account pinned at the bottom, and simple rows in light or dark. Models & providers now has Overview, Browse and Providers tabs. Every setting is still here."
+    "version": "1.6.14",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.6.14/Refract-1.6.14-mac.zip",
+    "sha256": "82131a6f3ac6d2056846d89c77f1840b1f9060b953e1aad797ab387b7565bdc1",
+    "notes": "Hover over the prism to see the last refraction\u2019s model and duration. Mac: the button follows your active display and keeps its parked position."
   },
   "linux": {
     "version": "1.6.14",
