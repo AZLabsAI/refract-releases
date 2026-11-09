@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.6.12",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.12/Refract-Setup-1.6.12-win-x64.exe",
-    "sha256": "4f358ee6832e6da43c136c9103e1672eeffec328729243c4fc8e03d3832d1ade",
-    "notes": "Sign-in works again on every platform. On Mac, the sign-in window uses the standard Continue with Google, Microsoft, GitHub or email buttons with official logos, and the browser's Open Refract button now takes you straight back (choose Always allow once)."
+    "version": "1.6.13",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.13/Refract-Setup-1.6.13-win-x64.exe",
+    "sha256": "e033a9d3621212c0e4aa2277e090b4f2929b6ea048798818a09a7b04fb78fa69",
+    "notes": "Settings has a new look on Mac, Windows and Linux: a clean sidebar with search, your account pinned at the bottom, and simple rows in light or dark. Models & providers now has Overview, Browse and Providers tabs. Every setting is still here."
   },
   "mac": {
     "version": "1.6.12",
