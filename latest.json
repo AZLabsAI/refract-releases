@@ -6,10 +6,10 @@
     "notes": "Prompt rewrites preserve captured text and intent, with safer cleanup and updated default instructions."
   },
   "mac": {
-    "version": "1.6.16",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.6.16/Refract-1.6.16-mac.zip",
-    "sha256": "0600397e00dee1355faa01bcd9d355c5ff1d032302fc87ce7fc9bff711a90c67",
-    "notes": "Curates Google model choices and applies per-model thinking defaults."
+    "version": "1.6.17",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.6.17/Refract-1.6.17-mac.zip",
+    "sha256": "b38f647dcdbe14e9c3d2602475896f63b3721c4e32ccfce214cf119f77cbf67d",
+    "notes": "Prompt rewrites preserve captured text and intent, with safer cleanup and updated default instructions."
   },
   "linux": {
     "version": "1.6.17",
