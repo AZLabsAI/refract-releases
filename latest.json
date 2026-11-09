@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.6.13",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.13/Refract-Setup-1.6.13-win-x64.exe",
-    "sha256": "e033a9d3621212c0e4aa2277e090b4f2929b6ea048798818a09a7b04fb78fa69",
-    "notes": "Settings has a new look on Mac, Windows and Linux: a clean sidebar with search, your account pinned at the bottom, and simple rows in light or dark. Models & providers now has Overview, Browse and Providers tabs. Every setting is still here."
+    "version": "1.6.14",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.14/Refract-Setup-1.6.14-win-x64.exe",
+    "sha256": "072ea71157dd2955432ef47cfdc2dfa5104a7160cc124f4d05cba936d56f114b",
+    "notes": "Hover over the prism to see the last refraction\u2019s model and duration. Mac: the button follows your active display and keeps its parked position."
   },
   "mac": {
     "version": "1.6.13",
