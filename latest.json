@@ -12,9 +12,9 @@
     "notes": "AZ Labs sign-in is now required for every rewrite. Continue with Google, GitHub, Microsoft or your existing AZ Labs account. Sessions renew securely, and ordinary accounts start on Refract Free. Sign in once after updating; your settings and local history are preserved."
   },
   "linux": {
-    "version": "1.6.8",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.6.8/refract-1.6.8-linux.tar.gz",
-    "sha256": "a4df98578819ed4346f1ac136dcb29593fd9db043fc6042ba4dae258152ea0db",
-    "notes": "AZ Labs sign-in is now required for every rewrite. Continue with Google, GitHub, Microsoft or your existing AZ Labs account. Sessions renew securely, and ordinary accounts start on Refract Free. Sign in once after updating; your settings and local history are preserved."
+    "version": "1.6.11",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.6.11/refract-1.6.11-linux.tar.gz",
+    "sha256": "c57c16d7081db17fcb80b9029abaf4a2950fbea559b40a2051ba743109efab90",
+    "notes": "New Mac sign-in screen, and saved sign-ins now survive updates. Continue with AZ Labs, Google, GitHub or Microsoft. Refract reconnects your saved account on its own after temporary connection or Keychain hiccups. Refract Pro billing is linked to your AZ Labs account; Refract Free still needs no subscription or API key."
   }
 }
