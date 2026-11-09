@@ -6,10 +6,10 @@
     "notes": "Sign-in works again on every platform. On Mac, the sign-in window uses the standard Continue with Google, Microsoft, GitHub or email buttons with official logos, and the browser's Open Refract button now takes you straight back (choose Always allow once)."
   },
   "mac": {
-    "version": "1.6.11",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.6.11/Refract-1.6.11-mac.zip",
-    "sha256": "082179618207bb8e136075b59a2fdc9e044f6cc95e42c66dbeab09a8b39671e6",
-    "notes": "New Mac sign-in screen, and saved sign-ins now survive updates. Continue with AZ Labs, Google, GitHub or Microsoft. Refract reconnects your saved account on its own after temporary connection or Keychain hiccups. Refract Pro billing is linked to your AZ Labs account; Refract Free still needs no subscription or API key."
+    "version": "1.6.12",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.6.12/Refract-1.6.12-mac.zip",
+    "sha256": "62ff5fd749b9389740ecb73348474bda2084c83ddfaa7dc15573d20c2b05263a",
+    "notes": "Sign-in works again on every platform. On Mac, the sign-in window uses the standard Continue with Google, Microsoft, GitHub or email buttons with official logos, and the browser's Open Refract button now takes you straight back (choose Always allow once)."
   },
   "linux": {
     "version": "1.6.12",
