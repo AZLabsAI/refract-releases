@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.6.18",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.18/Refract-Setup-1.6.18-win-x64.exe",
-    "sha256": "f80eef4ed6e52c292298dc7f852498210c20611794e30a52e32b4ba9e7399e0c",
-    "notes": "Transparent original TypeSafe, Claude and ChatGPT marks blend with light and dark settings. Jev and Rewrite styles fit compact windows. Includes the latest model and prompting fixes."
+    "version": "1.6.19",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.19/Refract-Setup-1.6.19-win-x64.exe",
+    "sha256": "b7b85d41416db3769b8b2045b5d946a38cd2fdc7b0000faf5bdd8e45ba388862",
+    "notes": "Google Gemini providers now show the Google logo in Settings on Mac and Linux, including renamed ones. Microsoft Store builds no longer show PayPal purchase buttons."
   },
   "mac": {
     "version": "1.6.18",
