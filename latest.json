@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.6.19",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.19/Refract-Setup-1.6.19-win-x64.exe",
-    "sha256": "b7b85d41416db3769b8b2045b5d946a38cd2fdc7b0000faf5bdd8e45ba388862",
-    "notes": "Google Gemini providers now show the Google logo in Settings on Mac and Linux, including renamed ones. Microsoft Store builds no longer show PayPal purchase buttons."
+    "version": "1.6.20",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.20/Refract-Setup-1.6.20-win-x64.exe",
+    "sha256": "cb7714fca06958ec829f2951e348f50456881e6ff22738f52ef91f389ffa65d7",
+    "notes": "Refract 1.6.20: the new glass logo, a draggable edge tab (with the notch on MacBooks and an activated pill), redesigned Settings with themes, snippets, dictionary and tone, Command Mode, Retry and Paste last (Ctrl+Alt+Shift+V on Windows), a privacy deny-list and Insights."
   },
   "mac": {
     "version": "1.6.19",
