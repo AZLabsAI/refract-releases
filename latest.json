@@ -12,9 +12,9 @@
     "notes": "Google Gemini providers now show the Google logo in Settings on Mac and Linux, including renamed ones. Microsoft Store builds no longer show PayPal purchase buttons."
   },
   "linux": {
-    "version": "1.6.19",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.6.19/refract-1.6.19-linux.tar.gz",
-    "sha256": "f3663597b90010038afedb0dc77d021312f43c495f3b4531c1bf8d7638ce3b73",
-    "notes": "Google Gemini providers now show the Google logo in Settings on Mac and Linux, including renamed ones. Microsoft Store builds no longer show PayPal purchase buttons."
+    "version": "1.6.20",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.6.20/refract-1.6.20-linux.tar.gz",
+    "sha256": "dd403c6ca2c39c7c5df5ceb647adae4594a998ff45d65abf105a25510a2169c9",
+    "notes": "# Refract 1.6.20\n\nRefract has a new look and a set of writing tools on Mac, Windows and Linux.\n\n**Glass logo.** The new glass prism is now the app icon, the floating button, the menu and tray icons and the setup screens.\n\n**Edge tab.** The button is now a tab you can drag to any edge of any screen. On a MacBook with a notch it can sit in the notch, and while Refract is working it grows into a small pill in the colours of the preset it is using.\n\n**Settings and themes.** Settings is redesigned, with a set of colour themes you can pick, import and export. Every existing setting is still there.\n\n**Snippets, dictionary and tone.**\n- Snippets turn a short trigger into text you saved.\n- Your dictionary keeps names and terms spelled the way you want, and learns from corrections you make.\n- Tone sets how a rewrite should sound for each kind of app.\n\n**Command Mode, Retry and Paste last.**\n- Command Mode lets you tell Refract what to do with the selected text.\n- Retry runs the last rewrite again.\n- Paste last puts your last rewrite back without asking the model.\n\n| | Mac | Windows | Linux |\n|---|---|---|---|\n| Command Mode | Ctrl+Option+K | Ctrl+Alt+K | Ctrl+Alt+K |\n| Retry | Ctrl+Option+Y | Ctrl+Alt+Y | Ctrl+Alt+Y |\n| Paste last | Ctrl+Option+V | Ctrl+Alt+Shift+V | Ctrl+Alt+V |\n\nOn Windows, Ctrl+Alt+V is Paste Special in Word, Excel and PowerPoint, so Paste last adds Shift there.\n\n**Privacy and Insights.** A deny-list keeps Refract out of password fields, apps and websites you choose. Insights shows simple counts of what Refract did for you. It stores numbers only, on your computer, never your text."
   }
 }
