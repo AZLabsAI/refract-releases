@@ -6,10 +6,10 @@
     "notes": "Prompt rewrites preserve captured text and intent, with safer cleanup and updated default instructions."
   },
   "mac": {
-    "version": "1.6.17",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.6.17/Refract-1.6.17-mac.zip",
-    "sha256": "b38f647dcdbe14e9c3d2602475896f63b3721c4e32ccfce214cf119f77cbf67d",
-    "notes": "Prompt rewrites preserve captured text and intent, with safer cleanup and updated default instructions."
+    "version": "1.6.18",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.6.18/Refract-1.6.18-mac.zip",
+    "sha256": "35b3179e50b0f3f19fc2eb23a84a9a3b5691e0656549688dfcfc7fa3dd9639a9",
+    "notes": "Transparent original TypeSafe, Claude and ChatGPT marks blend with light and dark settings. Jev and Rewrite styles fit compact windows. Includes the latest model and prompting fixes."
   },
   "linux": {
     "version": "1.6.18",
