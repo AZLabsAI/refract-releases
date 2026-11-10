@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.6.17",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.17/Refract-Setup-1.6.17-win-x64.exe",
-    "sha256": "3d7e9f19a279e2aba63f9b92f2c64437e97a14e46548224516de4ad22925927f",
-    "notes": "Prompt rewrites preserve captured text and intent, with safer cleanup and updated default instructions."
+    "version": "1.6.18",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.18/Refract-Setup-1.6.18-win-x64.exe",
+    "sha256": "f80eef4ed6e52c292298dc7f852498210c20611794e30a52e32b4ba9e7399e0c",
+    "notes": "Transparent original TypeSafe, Claude and ChatGPT marks blend with light and dark settings. Jev and Rewrite styles fit compact windows. Includes the latest model and prompting fixes."
   },
   "mac": {
     "version": "1.6.18",
