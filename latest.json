@@ -6,10 +6,10 @@
     "notes": "Google Gemini providers now show the Google logo in Settings on Mac and Linux, including renamed ones. Microsoft Store builds no longer show PayPal purchase buttons."
   },
   "mac": {
-    "version": "1.6.18",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.6.18/Refract-1.6.18-mac.zip",
-    "sha256": "35b3179e50b0f3f19fc2eb23a84a9a3b5691e0656549688dfcfc7fa3dd9639a9",
-    "notes": "Transparent original TypeSafe, Claude and ChatGPT marks blend with light and dark settings. Jev and Rewrite styles fit compact windows. Includes the latest model and prompting fixes."
+    "version": "1.6.19",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v1.6.19/Refract-1.6.19-mac.zip",
+    "sha256": "e4c83abbe142eac98c0764b5d7769199bd3091c50848d7b4dfbbe4c117419a0e",
+    "notes": "Google Gemini providers now show the Google logo in Settings on Mac and Linux, including renamed ones. Microsoft Store builds no longer show PayPal purchase buttons."
   },
   "linux": {
     "version": "1.6.19",
