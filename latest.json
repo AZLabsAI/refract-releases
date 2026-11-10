@@ -12,9 +12,9 @@
     "notes": "Transparent original TypeSafe, Claude and ChatGPT marks blend with light and dark settings. Jev and Rewrite styles fit compact windows. Includes the latest model and prompting fixes."
   },
   "linux": {
-    "version": "1.6.18",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.6.18/refract-1.6.18-linux.tar.gz",
-    "sha256": "55af2f007357fc52af14cbd9f28daf0403d74e75ec044b95a739058500f37495",
-    "notes": "Transparent original TypeSafe, Claude and ChatGPT marks blend with light and dark settings. Jev and Rewrite styles fit compact windows. Includes the latest model and prompting fixes."
+    "version": "1.6.19",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/linux-v1.6.19/refract-1.6.19-linux.tar.gz",
+    "sha256": "f3663597b90010038afedb0dc77d021312f43c495f3b4531c1bf8d7638ce3b73",
+    "notes": "Google Gemini providers now show the Google logo in Settings on Mac and Linux, including renamed ones. Microsoft Store builds no longer show PayPal purchase buttons."
   }
 }
