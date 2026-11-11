@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "1.6.20",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v1.6.20/Refract-Setup-1.6.20-win-x64.exe",
-    "sha256": "cb7714fca06958ec829f2951e348f50456881e6ff22738f52ef91f389ffa65d7",
-    "notes": "Refract 1.6.20: the new glass logo, a draggable edge tab (with the notch on MacBooks and an activated pill), redesigned Settings with themes, snippets, dictionary and tone, Command Mode, Retry and Paste last (Ctrl+Alt+Shift+V on Windows), a privacy deny-list and Insights."
+    "version": "2.0.0",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v2.0.0/Refract-Setup-2.0.0-win-x64.exe",
+    "sha256": "add854e1553ad351197115d45dd8adb70a574fd838e7721ec8712a1693581258",
+    "notes": "Refract 2.0.0: new Settings and Home, badges and levels, presets and app rules, themes, insights, rewrites that do not fail, a notch handle that stays hidden until you reach for it, light strips on Windows and Linux. Full notes in docs/releases/2.0.0.md"
   },
   "mac": {
     "version": "1.6.19",
