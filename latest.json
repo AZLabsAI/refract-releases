@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "2.0.0",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v2.0.0/Refract-Setup-2.0.0-win-x64.exe",
-    "sha256": "add854e1553ad351197115d45dd8adb70a574fd838e7721ec8712a1693581258",
-    "notes": "Refract 2.0.0: new Settings and Home, badges and levels, presets and app rules, themes, insights, rewrites that do not fail, a notch handle that stays hidden until you reach for it, light strips on Windows and Linux. Full notes in docs/releases/2.0.0.md"
+    "version": "2.0.1",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v2.0.1/Refract-Setup-2.0.1-win-x64.exe",
+    "sha256": "ec3449c571745c80a64a09fa56f8c098baea36df209f010986df2ffe3159bf1b",
+    "notes": "Sharper Windows activity light with vivid colours and a tighter glow. The compact prism icon replaces the desktop edge tab; click it for rewrite controls and Settings. The bottom light appears only while refracting. No tests run for this release; Windows feedback follows installation."
   },
   "mac": {
     "version": "2.0.0",
