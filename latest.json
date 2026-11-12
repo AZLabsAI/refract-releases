@@ -6,10 +6,10 @@
     "notes": "Sharper Windows activity light with vivid colours and a tighter glow. The compact prism icon replaces the desktop edge tab; click it for rewrite controls and Settings. The bottom light appears only while refracting. No tests run for this release; Windows feedback follows installation."
   },
   "mac": {
-    "version": "2.0.0",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v2.0.0/Refract-2.0.0-mac.zip",
-    "sha256": "0f51fbb070a05f01a0b0075bf7ce216502313055722bf5b53264453a14a60e89",
-    "notes": "Refract 2.0.0: new Settings and Home, badges and levels, presets and app rules, themes, insights, rewrites that do not fail, a notch handle that stays hidden until you reach for it, light strips on Windows and Linux. Full notes in docs/releases/2.0.0.md"
+    "version": "2.0.1",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v2.0.1/Refract-2.0.1-mac.zip",
+    "sha256": "3cfdca5938116777a4ed4281fd18522f8d11bd7136b45c35160830090b52cb57",
+    "notes": "Mac notch hover now reveals the prism nearby, keeps the icon aligned with its handle, and adds tiny completion confetti. The plan window refreshes billing status and explains existing Pro access. Functional and visual testing follows installation."
   },
   "linux": {
     "version": "2.0.0",
