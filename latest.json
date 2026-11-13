@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "2.0.2",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v2.0.2/Refract-Setup-2.0.2-win-x64.exe",
-    "sha256": "371cfd7eb8a34c0edf69e85686966f0db70607704d5e4a1411ff1c5db11979ad",
-    "notes": "Windows 2.0.2: notifications stay fixed and expire; the activity light targets 60 FPS using Windows composition timing. Paste handling avoids duplicate insertion and preserves completed rewrites, with verified local TeamViewer chat support. Automatic Refract Free fallback retries recoverable errors until success or cancellation while respecting server waits. No application tests run; owner testing follows update."
+    "version": "2.0.3",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v2.0.3/Refract-Setup-2.0.3-win-x64.exe",
+    "sha256": "f2c6e6279ede1d012231d7732194e1c7fcc08a66095ccc925dd2b1f4a64b55eb",
+    "notes": "- Rewrites now paste into Microsoft Teams. Letting go of Alt after a Ctrl+Alt hotkey no longer opens the app menu, Teams gets focus back before pasting, and Refract falls back to Shift+Insert, then WM_PASTE, then typing only if the first paste provably did nothing.\n- The bottom light is smoother and shinier, with a glassy highlight and glow. When a rewrite finishes it drips rainbow droplets and pops confetti. Turning Show animations off disables the new effects.\n\nWindows-only release. Compiled and checked with the Windows self-tests that run on macOS; Teams paste and visual feedback follow installation."
   },
   "mac": {
     "version": "2.0.1",
