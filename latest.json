@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "2.0.1",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v2.0.1/Refract-Setup-2.0.1-win-x64.exe",
-    "sha256": "ec3449c571745c80a64a09fa56f8c098baea36df209f010986df2ffe3159bf1b",
-    "notes": "Sharper Windows activity light with vivid colours and a tighter glow. The compact prism icon replaces the desktop edge tab; click it for rewrite controls and Settings. The bottom light appears only while refracting. No tests run for this release; Windows feedback follows installation."
+    "version": "2.0.2",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v2.0.2/Refract-Setup-2.0.2-win-x64.exe",
+    "sha256": "371cfd7eb8a34c0edf69e85686966f0db70607704d5e4a1411ff1c5db11979ad",
+    "notes": "Windows 2.0.2: notifications stay fixed and expire; the activity light targets 60 FPS using Windows composition timing. Paste handling avoids duplicate insertion and preserves completed rewrites, with verified local TeamViewer chat support. Automatic Refract Free fallback retries recoverable errors until success or cancellation while respecting server waits. No application tests run; owner testing follows update."
   },
   "mac": {
     "version": "2.0.1",
