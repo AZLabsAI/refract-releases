@@ -1,9 +1,9 @@
 {
   "windows": {
-    "version": "2.0.4",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v2.0.4/Refract-Setup-2.0.4-win-x64.exe",
-    "sha256": "10eed8cb0249e5fc3dd0170205439473dc65e1ad005ce484a8336d499f4bd3aa",
-    "notes": "- Fixed rewrites that finished but showed \"Paste didn't land\" even though Ctrl+V worked by hand, most often in Microsoft Teams and other Electron or WebView2 apps. Refract once again sends one guarded Ctrl+V when the box can only be read by keystrokes, and no longer waits for the mouse and keyboard to stay still while the model works.\n- When Refract cannot read the box back, it now says the paste was sent and could not be confirmed, instead of reporting a failure. It still never pastes twice.\n\nWindows-only release. Compiled and checked with the Windows self-tests that run on macOS; paste behavior follows installation."
+    "version": "2.0.5",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/windows-v2.0.5/Refract-Setup-2.0.5-win-x64.exe",
+    "sha256": "ed23068010cd47593b2c4d30f5b962f47794c1e435628a0e556b7cdfa4b1064c",
+    "notes": "- No notice is shown when Refract cannot confirm a paste that was sent.\n\nWindows-only release."
   },
   "mac": {
     "version": "2.0.1",
