@@ -6,10 +6,10 @@
     "notes": "- No notice is shown when Refract cannot confirm a paste that was sent.\n\nWindows-only release."
   },
   "mac": {
-    "version": "2.0.1",
-    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v2.0.1/Refract-2.0.1-mac.zip",
-    "sha256": "3cfdca5938116777a4ed4281fd18522f8d11bd7136b45c35160830090b52cb57",
-    "notes": "Mac notch hover now reveals the prism nearby, keeps the icon aligned with its handle, and adds tiny completion confetti. The plan window refreshes billing status and explains existing Pro access. Functional and visual testing follows installation."
+    "version": "2.0.2",
+    "url": "https://github.com/AZLabsAI/refract-releases/releases/download/mac-v2.0.2/Refract-2.0.2-mac.zip",
+    "sha256": "656b06623aea7df532b7b4ab87bfb95c76ab730e20522641775568084200e1a4",
+    "notes": "Bridge release: point Mac updater to GitLab (azlabs-ai/refract-releases)."
   },
   "linux": {
     "version": "2.0.0",
